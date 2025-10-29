@@ -45,7 +45,7 @@ A full-stack farmers market platform connecting local farmers directly with cons
 - **GitHub Actions** - CI/CD pipeline
 - **Docker** - Containerization
 - **MongoDB Atlas** - Database hosting
-- **Environment Variables** - Secure configuration
+- **Environment Variables** - Secure configurations
 
 ## 🏗️ Project Structure
 Seed2Sale/
